@@ -30,8 +30,11 @@ class Pesquisa:
             genero_opcao = {'1': 'Feminino', '2': 'Masculino', '3': 'Transgênero', '4': 'Outro'}.get(genero_ok)  # Mapeia a escolha do gênero para a opção correspondente
             
             resposta1 = self.obter_resposta("A sua empresa oferece suporte adequado à saúde mental dos funcionários?\n1 - Sim\n2 - Não\n3 - Não sei responder\n ")
+            print('-' * 100)
             resposta2 = self.obter_resposta("Você já passou por situações de sobrecarga no seu trabalho?\n1 - Sim\n2 - Não\n3 - Não sei responder\n ")
+            print('-' * 100)
             resposta3 = self.obter_resposta("Na empresa em que você trabalha, existem políticas para promover equilíbrio entre vida pessoal e trabalho?\n1 - Sim\n2 - Não\n3 - Não sei responder\n ")
+            print('-' * 100)
             resposta4 = self.obter_resposta("Você acha importante que as empresas adotem políticas/programas de bem-estar para cuidar da saúde mental dos seus funcionários?\n1 - Sim\n2 - Não\n3 - Não sei responder\n ")
 
             print('-' * 100)
