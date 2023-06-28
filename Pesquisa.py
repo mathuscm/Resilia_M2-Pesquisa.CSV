@@ -10,8 +10,8 @@ class Pesquisa:
     def coletar_respostas(self):
         while True:
             print('-' * 100)
-            print('\033[33mOlá! Está é uma pesquisa sobre equilíbrio entre vida pessoal, trabalho e saúde mental.')
-
+            print('\033[33mOLÁ! ESTÁ É UMA PESQUISA SOBRE EQUILÍBRIO ENTRE VIDA PESSOAL, TRABALHO E SAÚDE MENTAL')
+            print('-' * 100)
         
             idade = int(input("\033[0;0mInforme sua idade (ou '00' para sair): "))
                 
