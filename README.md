@@ -27,11 +27,11 @@ possibilitando também a utilização destes dados para outros fins futuro.
 
 * A EQUIPE:
 Este projeto foi realizado por:
-Douglas (@pinheirodoug)
-Joel (Joeljrbeginner)
-Juliana (@julianapvh)
-Matheus (@mathuscm)
-Michael (@barbosamichael)
+   - Douglas (@pinheirodoug)
+   - Joel (Joeljrbeginner)
+   - Juliana (@julianapvh)
+   - Matheus (@mathuscm)
+   - Michael (@barbosamichael)
 
 Se você gostou, muito obrigado! Caso tenha alguma dica de melhoria, pode entrar em contato comigo:
 * Email: cordaromatheus@gmail.com
